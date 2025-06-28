@@ -1,0 +1,20 @@
+form{
+    position: absolute;
+    left:40%;
+    top:35%;
+    width:15%;
+    height: 10%;
+    margin: 0 auto;
+    background: lightblue;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: aquamarine;
+    padding: 100px;
+}
+
+input{
+
+    float: right;
+
+}
